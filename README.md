@@ -1,4 +1,4 @@
-# Keymate API for GPT Integration
+# Keymate API for GPT Integration :fire: :key: :robot:
 
 ## Overview
 
@@ -69,6 +69,8 @@ pytest /tests
 
 For support and queries, [create an issue](https://github.com/your-github-repo/issues) in the GitHub repository.
 
----
+#keymate
+#gpt
+#fastapi
 
-This README provides a comprehensive guide for anyone looking to understand, set up, and use your API. You can modify and extend it as needed to fit the evolving details of your project.
+grumpy-ai :fire:
